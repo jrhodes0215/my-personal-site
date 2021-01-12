@@ -73,8 +73,9 @@ hr {
 }
 
 .mountain {
+  margin: auto;
   position: relative;
-  top: 5px;
+  top: 11px;
 }
 
 .middle-container {
@@ -94,13 +95,13 @@ hr {
 }
 
 #gaming-img {
-  width: 25%;
+  width: 15rem;
   float: left;
   margin: 65px 30px 5px;
 }
 
 #guitar-img {
-  width: 25%;
+  width: 15rem;
   float: right;
   margin: 65px 30px 5px;
 }
