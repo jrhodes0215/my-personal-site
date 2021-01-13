@@ -1,148 +1,18 @@
 body {
-  margin: 0;
-  text-align: center;
-  color: #0c120c;
-  font-family: "Viga", sans-serif;
-  line-height: 2;
-}
-
-h1 {
-  margin: 50px auto 0 auto;
-  font-family: "Meddon", cursive;
-  font-size: 5em; /* 100% = 16px = 1em */
-  color: #66bfbf;
-}
-
-h2 {
-  font-family: "Goldman", cursive;
-  font-size: 2.5rem;
-  color: #66bfbf;
-}
-
-h3 {
-  font-family: "Goldman", cursive;
-  color: #11999e;
-}
-
-a {
-  color: #66bfbf;
-  font-family: "Viga", sans-serif;
-  margin: 10px 20px;
-}
-
-a:hover {
-  color: #eaf6f6;
+  background-color: #008891;
 }
 
 hr {
-  border: dotted #e6f7f7 6px;
-  border-bottom: none;
-  width: 4%;
-  margin: 100px auto;
+  border-style: dotted none none;
+  border-color: #e7e7de;
+  width: 5%;
+  border-width: 5px;
 }
 
-.subtitle {
-  font-weight: normal;
+h1 {
+  color: #e7e7de;
 }
 
-.intro {
-  width: 40%;
-  margin: auto;
-  padding: 15px;
-}
-
-.web {
-  text-decoration: underline;
-}
-
-.top-container {
-  background-color: #4c778d;
-  position: relative;
-  padding-top: 100px;
-}
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
-
-.mountain {
-  margin: auto;
-  position: relative;
-  top: 11px;
-}
-
-.middle-container {
-  width: auto;
-  margin: auto;
-}
-
-.profile-img {
-  position: relative;
-  top: 10px;
-}
-
-.skill-row {
-  width: 50%;
-  margin: 100px auto;
-  text-align: left;
-}
-
-#gaming-img {
-  width: 15rem;
-  float: left;
-  margin: 65px 30px 5px;
-}
-
-#guitar-img {
-  width: 15rem;
-  float: right;
-  margin: 65px 30px 5px;
-}
-
-.bottom-container {
-  background-color: #4c778d;
-  padding: 40px 0 20px;
-}
-
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
-}
-
-.btn {
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px;
-  color: #ffffff;
-  font-family: Goldman;
-  font-size: 18px;
-  font-weight: 100;
-  padding: 15px;
-  background-color: #11999e;
-  -webkit-box-shadow: 1px 1px 20px 0 #000000;
-  -moz-box-shadow: 1px 1px 20px 0 #000000;
-  box-shadow: 1px 1px 10px 0 #000000;
-  text-shadow: 1px 1px 20px #000000;
-  border: solid #000000 1px;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  text-align: center;
-  margin-bottom: 15px;
-}
-
-.btn:hover {
-  background: #66bfbf;
-}
-
-.copyright {
-  color: white;
-  font-size: 0.7rem;
+h3 {
+  color: #e7e7de;
 }
